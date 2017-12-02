@@ -6,6 +6,8 @@ Demo site:  <http://coeverydemo.novasoftware.cn/> (Recommended)
 User Name: admin  
 Password: 123456789 
 
+Youtube: https://www.youtube.com/watch?v=4g1N_P0-5WM
+
 ##How to install it
 
 If you'd like to deploy Coevery on your computer, please follow the instructions [Installing with Microsoft Web Platform Installer](https://github.com/Coevery/Coevery/wiki/Installing-with-Microsoft-Web-Platform-Installer)
